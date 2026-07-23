@@ -10,7 +10,7 @@
 
 ## The brief
 
-RavenStack is a stealth-mode B2B SaaS company in private beta with 500 paying clients across five verticals — DevTools, FinTech, Cybersecurity, HealthTech, EdTech. The Customer Success team needs to know two things every Monday morning: *which clients are at risk of churning, and of those, which ones are worth the most revenue to save.* This dashboard answers both in a single sort and gives CS leadership a defensible, repeatable way to prioritize their retention effort across a growing book of business.
+RavenStack is a stealth-mode B2B SaaS company in private beta with 500 paying clients across five verticals - DevTools, FinTech, Cybersecurity, HealthTech, EdTech. The Customer Success team needs to know two things every Monday morning: *which clients are at risk of churning, and of those, which ones are worth the most revenue to save.* This dashboard answers both in a single sort and gives CS leadership a defensible, repeatable way to prioritize their retention effort across a growing book of business.
 
 ---
 
